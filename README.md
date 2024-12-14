@@ -1,6 +1,6 @@
 # Hi, I'm Amir ! 👋
 
-Welcome to my profile! I'm a passionate about **Data science** with a strong interest in **machine learning, economics and sports analytics**. 
+Welcome to my profile! I'm a interested in **Data science** and in particular in **machine learning, economics and sports analytics**. 
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to my profile! I'm a passionate about **Data science** with a strong int
 
 - 💡 **Goals**:  
   - Contribute to a society in the CIS region and beyond.   
-  - Create a value in **Football industry** and beyond.
+  - Create a value in **Football industry** and not only.
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my profile! I'm a passionate about **Data science** with a strong int
 
 ---
 
-## 📚 Featured Projects
+## 📚 Completed projects
 ### Football Player Valuation with Machine Learning
 Predicting market values of football players using FIFA, FC2024 features.
 
@@ -41,9 +41,13 @@ Analyzing and proposing strategic reforms for the public transportation system i
 - Researching **Sustainability Prediction of National Fund of Kazakhstan using ML** for master's thesis. 
 ---
 
-## 📫 Connect with Me
-- **Email**: [amastikbayev@gmail.com](mailto:amastikbayev@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/amir-mastikbayev](https://www.linkedin.com/in/mastikbayev)  
+## 📫 How to reach me:
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mastikbayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mastikbayev" height="30" width="40" /></a>
+<a href="https://instagram.com/amastikbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amastikbay" height="30" width="40" /></a>
+</p>
 
 ---
 
