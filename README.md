@@ -1,6 +1,6 @@
-# Hi, I'm Amir Mastikbayev! 👋
+# Hi, I'm Amir ! 👋
 
-Welcome to my profile! I'm a passionate about **Data science** with a strong interest in **machine learning, sports analytics**, and **public policy research**. 
+Welcome to my profile! I'm a passionate about **Data science** with a strong interest in **machine learning, economics and sports analytics**. 
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to my profile! I'm a passionate about **Data science** with a strong int
   - Management  
 
 - 💡 **Goals**:  
-  - Contribute to society in analytics in the CIS region and beyond.   
+  - Contribute to a society in the CIS region and beyond.   
   - Create a value in **Football industry** and beyond.
 
 ---
@@ -29,10 +29,10 @@ Welcome to my profile! I'm a passionate about **Data science** with a strong int
 ---
 
 ## 📚 Featured Projects
-### [Football Player Valuation with Machine Learning]
+### Football Player Valuation with Machine Learning
 Predicting market values of football players using FIFA, FC2024 features.
 
-### [Kazakhstan football teams' management problems]
+### Kazakhstan football teams' management problems
 Analyzing and proposing strategic reforms for the public transportation system in Oskemen using data-driven approaches.
 
 ---
