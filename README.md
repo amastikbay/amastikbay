@@ -1,15 +1,50 @@
-<h1 align="center">Hello 👋, my name is: Amir</h1>
-<h3 align="center">I am interested in Data science and Sports.</h3>
+# Hi, I'm Amir Mastikbayev! 👋
 
-- 🔭 On this platform **I would like to learn further and grow professionally.**
+Welcome to my profile! I'm a passionate about **Data science** with a strong interest in **machine learning, sports analytics**, and **public policy research**. 
 
-- 📫 How to reach me **amastikbayev@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mastikbayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mastikbayev" height="30" width="40" /></a>
-<a href="https://instagram.com/amastikbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amastikbay" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
+- 🎓 **Education**:  
+  Master's in Data Analytics for Business and Society at *Ca' Foscari University of Venice*.  
+  Erasmus+ Exchange Student at *Universidad Autonoma de Madrid* , *Bilkent University* and soon at *ADA University*.  
+  Bachelor's in Business Administration at *Ca' Foscari University of Venice*.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🌍 **Interests**:  
+  - Sports analytics (football and hockey 🏒⚽️)
+  - Economics
+  - Management  
+
+- 💡 **Goals**:  
+  - Contribute to society in analytics in the CIS region and beyond.   
+  - Create a value in **Football industry** and beyond.
+
+---
+
+## 🛠️ Skills & Tools
+- **Programming Languages**: Python, R, SQL  
+- **Data Science**: Machine Learning, Predictive Analytics, Data Visualization  
+- **Software & Tools**: Jupyter, Tableau, Qlik, Power BI, Git  
+
+---
+
+## 📚 Featured Projects
+### [Football Player Valuation with Machine Learning]
+Predicting market values of football players using FIFA, FC2024 features.
+
+### [Kazakhstan football teams' management problems]
+Analyzing and proposing strategic reforms for the public transportation system in Oskemen using data-driven approaches.
+
+---
+
+## 🌟 What I’m Working On 
+- Researching **Sustainability Prediction of National Fund of Kazakhstan using ML** for master's thesis. 
+---
+
+## 📫 Connect with Me
+- **Email**: [amastikbayev@gmail.com](mailto:amastikbayev@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/amir-mastikbayev](https://www.linkedin.com/in/mastikbayev)  
+
+---
+
+Don't hesitate to reach out! I'm always open to discussions, collaborations, and opportunities to make an impact to the society 🌍
