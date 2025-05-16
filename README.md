@@ -1,30 +1,26 @@
 # Hi, I'm Amir ! 👋
 
-Welcome to my profile! I'm a interested in **Data science** and in particular in **machine learning, economics and sports analytics**. 
+Welcome to my profile! I'm a interested in **Data science** and in particular in **machine learning, economics and predictive analytics**. 
 
 ---
 
 ## 🚀 About Me
 - 🎓 **Education**:  
-  Master's in Data Analytics for Business and Society at *Ca' Foscari University of Venice*.  
+  Master's in Data Analytics at *Ca' Foscari University of Venice*.  
   Erasmus+ Exchange Student at *Universidad Autonoma de Madrid* , *Bilkent University* and soon at *ADA University*.  
   Bachelor's in Business Administration at *Ca' Foscari University of Venice*.  
 
 - 🌍 **Interests**:  
-  - Sports analytics (football and hockey 🏒⚽️)
+  - Predictive and Product Analytics
   - Economics
   - Management  
-
-- 💡 **Goals**:  
-  - Contribute to a society in the CIS region and beyond.   
-  - Create a value in **Football industry** and not only.
 
 ---
 
 ## 🛠️ Skills & Tools
 - **Programming Languages**: Python, R, SQL  
 - **Data Science**: Machine Learning, Predictive Analytics, Data Visualization  
-- **Software & Tools**: Jupyter, Tableau, Qlik, Power BI, Git  
+- **Software & Tools**: Jupyter Notebooks, Tableau, Qlik,  
 
 ---
 
