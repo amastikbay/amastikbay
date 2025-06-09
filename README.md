@@ -7,7 +7,7 @@ Welcome to my profile! I'm a interested in **Data science** and in particular in
 ## 🚀 About Me
 - 🎓 **Education**:  
   Master's in Data Analytics at *Ca' Foscari University of Venice*.  
-  Erasmus+ Exchange Student at *Universidad Autonoma de Madrid* , *Bilkent University* and soon at *ADA University*.  
+  Erasmus+ Exchange Student at *Universidad Autonoma de Madrid* , *Bilkent University* and *ADA University*.  
   Bachelor's in Business Administration at *Ca' Foscari University of Venice*.  
 
 - 🌍 **Interests**:  
