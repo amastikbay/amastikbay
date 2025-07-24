@@ -1,40 +1,22 @@
 # Hi, I'm Amir ! 👋
 
-Welcome to my profile! I'm a interested in **Data science** and in particular in **machine learning, economics and predictive analytics**. 
+Welcome to my profile! I'm a interested in **Data and Product analytics** and in particular in **FinTech and IT industries**. 
 
 ---
 
 ## 🚀 About Me
 - 🎓 **Education**:  
-  Master's in Data Analytics at *Ca' Foscari University of Venice*.  
-  Erasmus+ Exchange Student at *Universidad Autonoma de Madrid* , *Bilkent University* and *ADA University*.  
-  Bachelor's in Business Administration at *Ca' Foscari University of Venice*.  
-
-- 🌍 **Interests**:  
-  - Predictive and Product Analytics
-  - Economics
-  - Management  
+  **Master's in Data Analytics** at Ca' Foscari University of Venice, **Grade: 110/110**
+  Bachelor's in Business Administration at Ca' Foscari University of Venice, **Grade: 101/110**
+  3 Erasmus+ Exchange semesters at **Universidad Autonoma de Madrid, Bilkent University and ADA University**    
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Programming Languages**: Python, R, SQL  
-- **Data Science**: Machine Learning, Predictive Analytics, Data Visualization  
-- **Software & Tools**: Jupyter Notebooks, Tableau, Qlik,  
+- **Programming Languages**: **Python**, R, **SQL**  
+- **Software & Tools**: **Jupyter Notebooks, Tableau, VS Code, Excel, Looker, Qlik**
+- **Data Science**: Machine Learning, Predictive Analytics, *Data Visualization*  
 
----
-
-## 📚 Completed projects
-### Football Player Valuation with Machine Learning
-Predicting market values of football players using FIFA, FC2024 features.
-
-### Kazakhstan football teams' management problems
-Analyzing and proposing strategic reforms for the public transportation system in Oskemen using data-driven approaches.
-
----
-
-## 🌟 What I’m Working On 
-- Researching **Sustainability Prediction of National Fund of Kazakhstan using ML** for master's thesis. 
 ---
 
 ## 📫 How to reach me:
