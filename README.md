@@ -1,6 +1,6 @@
 # Hi, I'm Amir ! 👋
 
-Welcome to my profile! I'm a interested in **Data and Product analytics** and in particular in **FinTech and IT industries**. 
+Welcome to my profile! I'm a **Data and Product analyst** in particular in **FinTech industry**. 
 
 ---
 
