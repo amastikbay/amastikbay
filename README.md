@@ -5,10 +5,10 @@ I'm a **Data and Product analyst** in particular in **FinTech industry**.
 ---
 
 ## 🚀 About Me
-  **5 years experience in data analytics**
-  **Key person for decision makers**
-  **Master's degree in Data Analytics** at Ca' Foscari University of Venice, **Grade: 110/110**
-  3 Erasmus+ Exchange semesters at **Universidad Autonoma de Madrid, Bilkent University and ADA University**    
+-  **5 years experience in data analytics**
+-  **Key person for decision makers**
+-  **Master's degree in Data Analytics** at Ca' Foscari University of Venice, **Grade: 110/110**
+-  3 Erasmus+ Exchange semesters at **Universidad Autonoma de Madrid, Bilkent University and ADA University**    
 
 ---
 
